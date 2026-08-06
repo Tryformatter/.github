@@ -2,71 +2,56 @@
 
 # TryFormatter
 
-**Practical tools for images, PDFs, data, SEO, calculations, and everyday digital work.**
+**Free, focused online tools for files, code, images, PDFs, SEO, and everyday tasks.**
 
-[Visit TryFormatter](https://www.tryformatter.com)
+[Explore all tools](https://www.tryformatter.com/all-tools) · [About](https://www.tryformatter.com/about) · [Blog](https://www.tryformatter.com/blog) · [Contact](https://www.tryformatter.com/contact)
 
 </div>
 
-## About TryFormatter
+## Tools for the task at hand
 
-TryFormatter is a growing collection of focused online tools designed to help people complete common digital tasks quickly and clearly.
+TryFormatter brings practical digital utilities together in one clean workspace. Resize an image, merge a PDF, format JSON, audit a webpage, convert data, or prepare a document for an application—without navigating a complicated workflow.
 
-The platform includes utilities for editing images, working with PDFs, converting files and data, formatting code, checking SEO, performing calculations, and preparing files for forms or applications.
+| Category | What you can do |
+| --- | --- |
+| [Image Studio](https://www.tryformatter.com/image) | Compress, resize, convert, edit, and batch-process images |
+| [PDF Suite](https://www.tryformatter.com/pdf) | Merge, split, compress, crop, protect, and convert PDFs |
+| [Formatters](https://www.tryformatter.com/formatter) | Format, validate, beautify, and minify code and structured data |
+| [Converters](https://www.tryformatter.com/converter) | Convert files, images, code, text, and data formats |
+| [SEO Studio](https://www.tryformatter.com/seo) | Audit webpages, inspect metadata, and create schemas and sitemaps |
+| [Calculators](https://www.tryformatter.com/calculator) | Solve date, percentage, age, time, and everyday calculations |
+| [Exam Tools](https://www.tryformatter.com/exam) | Prepare photos, signatures, and documents for online applications |
+| [Security Tools](https://www.tryformatter.com/security) | Inspect tokens and generate passwords, UUIDs, and hashes |
+| [AI Tools](https://www.tryformatter.com/intelligence) | Use focused, browser-based AI utilities for code and data tasks |
 
-Our goal is simple: each tool should solve one task well, remain easy to understand, and work smoothly across desktop and mobile devices.
+## Why TryFormatter
 
-## What we build
+- **Focused workflows:** each tool is designed to complete one task clearly.
+- **Fast to start:** public tools work without account or setup friction.
+- **Browser-first processing:** supported file and text tools do their main work on your device.
+- **Connected utilities:** move naturally between related steps such as resize, compress, and convert.
+- **Accessible by design:** responsive layouts, keyboard support, readable contrast, and clear feedback.
 
-- **Image tools** — resize, compress, crop, convert, annotate, upscale, create collages, and prepare profile or document photos.
-- **PDF tools** — compress, merge, split, crop, protect, convert, and manage PDF files.
-- **Converters** — transform images, files, code, and structured data between useful formats.
-- **Formatters** — format and validate JSON, XML, HTML, CSS, JavaScript, SQL, and other developer data.
-- **SEO utilities** — inspect metadata, schema, links, sitemaps, robots files, and search-readiness signals.
-- **Calculators** — practical calculators for dates, percentages, age, time, health, and everyday planning.
-- **Exam and document tools** — prepare photos, signatures, and files for online forms and applications.
+## Privacy by design
 
-## Product principles
+Many supported image, PDF, formatter, and converter tools process their main input directly in your browser. Tools that inspect public websites may use a secure request service when browser restrictions prevent direct access.
 
-- **Focused workflows** — every page is built around one clear task.
-- **Useful by default** — minimal setup, clear controls, and practical output.
-- **Browser-first where practical** — many file-processing tools run directly in the browser.
-- **Honest limitations** — no fake ratings, exaggerated quality claims, or unsupported privacy promises.
-- **Accessible design** — keyboard support, readable contrast, responsive layouts, and clear feedback.
-- **Consistent experience** — shared design patterns across light mode, dark mode, desktop, and mobile.
+Uploaded file contents, pasted text, generated output, and private filenames are excluded from analytics. The processing method is described on each tool where applicable.
 
-## Processing and privacy
+[Learn how processing works](https://www.tryformatter.com/about) · [Read the privacy policy](https://www.tryformatter.com/privacy-policy)
 
-Many TryFormatter tools process selected files directly inside the browser. Some tools that inspect websites, retrieve remote resources, or depend on external data may use server-side or proxy processing.
+## Repositories and security
 
-Each tool should describe its processing behaviour accurately. Analytics must not include uploaded file contents, Base64 data, private text, or other sensitive user material.
+TryFormatter's production repositories are private. Public source code, documentation, and reusable resources will appear in this organization when available.
 
-## Repository access
-
-TryFormatter's production repositories are private. This public organization profile is used to share information about the platform, its products, and official links.
-
-Public source code, documentation, or reusable resources may be published separately in the future when appropriate.
-
-## Security
-
-Please do not publish sensitive security reports in public discussions.
-
-For responsible disclosure, contact the TryFormatter team through the official website and include the affected page, reproduction steps, and potential impact without sharing private user data.
-
-## Links
-
-- [TryFormatter website](https://www.tryformatter.com)
-- [Image tools](https://www.tryformatter.com/image)
-- [PDF tools](https://www.tryformatter.com/pdf)
-- [Converters](https://www.tryformatter.com/converter)
-- [Formatters](https://www.tryformatter.com/formatter)
-- [SEO tools](https://www.tryformatter.com/seo)
-- [Calculators](https://www.tryformatter.com/calculator)
+Please report security concerns privately through the [official contact page](https://www.tryformatter.com/contact). Include the affected page, reproduction steps, and potential impact, and do not include private user data in the report.
 
 ---
 
 <div align="center">
 
-Built to make common digital tasks simpler.
+**Spend less time searching for tools. Spend more time finishing the task.**
+
+[Visit TryFormatter](https://www.tryformatter.com)
 
 </div>
